@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HyuntaeJung
+- 👋 Hi, I’m @HyunTaeJung
 - 👀 I’m interested in computational chemistry
 - 🌱 I’m currently learning stochastic process
 - 💞️ I’m looking to collaborate on 
